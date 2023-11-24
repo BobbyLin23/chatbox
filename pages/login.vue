@@ -5,7 +5,5 @@ definePageMeta({
 </script>
 
 <template>
-  <div text-center>
-    Login
-  </div>
+  <LoginForm />
 </template>
